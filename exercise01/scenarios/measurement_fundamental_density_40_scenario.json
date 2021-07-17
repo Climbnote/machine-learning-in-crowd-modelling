@@ -1,0 +1,14 @@
+{
+    "width": 70,
+    "height": 10,
+    "cell_width": 0.5,
+    "r_max": 0.6,
+    "speed_pedestrian": 1.33,
+    "speed_control": true,
+    "use_dijkstra": false,
+    "pedestrians_coordinates": [],
+    "pedestrians_for_density": [{"density": 4.0, "upper_left_x": 1, "upper_left_y":1, "lower_right_x": 50, "lower_right_y": 20}],
+    "obstacles_coordinates": [],
+    "obstacle_rectangular": [],
+    "target_coordinates": {"x": 140, "y" : 10}
+ }

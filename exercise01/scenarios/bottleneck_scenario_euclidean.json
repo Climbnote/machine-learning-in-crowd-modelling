@@ -1,0 +1,14 @@
+{
+   "width": 13,
+   "height": 13,
+   "cell_width": 0.5,
+   "r_max": 0.6,
+   "speed_pedestrian": 1.0,
+   "speed_control": true,
+   "use_dijkstra": false,
+   "pedestrians_coordinates": [{"x":1, "y":1}, {"x":2, "y":3}, {"x":2, "y":4}, {"x":1, "y":6}, {"x":3, "y":10}, {"x":1, "y":10}, {"x":1, "y":14}, {"x":2, "y":18}, {"x":1, "y":21}, {"x":3, "y":24}],
+   "pedestrians_for_density": [],
+   "obstacles_coordinates": [],
+   "obstacle_rectangular": [{"upper_left_x": 5, "upper_left_y": 1, "lower_right_x": 22, "lower_right_y": 11}, {"upper_left_x": 5, "upper_left_y": 16, "lower_right_x": 22, "lower_right_y": 26}],
+   "target_coordinates": {"x": 24, "y" : 24}
+}
