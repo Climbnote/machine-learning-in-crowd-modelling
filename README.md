@@ -1,8 +1,6 @@
 # machine-learning-in-crowd-modelling
 
-This repository includes all implementations created during the course "Machine Learning in Crowd Modelling and Simulation" (MLCMS) at TUM.
-
-The assignments have covered the following topics which are :
+This repository includes all implementations created during the course "Machine Learning in Crowd Modelling and Simulation" (MLCMS) at TUM. The different assignments each have its own folder and are covering the following topics:
 
 ## [exercise01](https://github.com/Climbnote/machine-learning-in-crowd-modelling/tree/main/exercise01) Modeling crowd dynamics
 Implementation of a cellular automaton with visualization in Python
